@@ -8,7 +8,7 @@ import {
   html,
   css,
   reactjs,
-  redux,
+  redux, 
   tailwind,
   nodejs,
   mongodb,
