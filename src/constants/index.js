@@ -6,7 +6,7 @@ import {
   javascript, 
   typescript,
   html,
-  css,
+  css, 
   reactjs,
   redux, 
   tailwind,
